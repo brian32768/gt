@@ -1,0 +1,27 @@
+{
+  "name": "gt",
+  "version": "1.0.0",
+  "description": "Test of git branching and merging",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel serve index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian32768/gt.git"
+  },
+  "keywords": [
+    "git",
+    "node"
+  ],
+  "author": "Brian H Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brian32768/gt/issues"
+  },
+  "homepage": "https://github.com/brian32768/gt#readme",
+  "dependencies": {
+    "@mapbox/maki": "^4.0.0"
+  }
+}
