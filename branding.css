@@ -1,5 +1,5 @@
-#branding {
-    background-image: url("./node_modules/@mapbox/maki/icons/aquarium-15.svg");
-    width: 100px;
-    height: 100px;
+#logo {
+    background: url("node_modules/@mapbox/maki/icons/aquarium-15.svg");
+    width: 300px;
+    height: 60px;
 }
