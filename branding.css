@@ -1,3 +1,5 @@
 #branding {
-	content: url(assets/map46.png);
+    background-image: url("./node_modules/@mapbox/maki/icons/aquarium-15.svg");
+    width: 100px;
+    height: 100px;
 }
